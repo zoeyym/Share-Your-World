@@ -1,0 +1,31 @@
+/* Import a font
+
+
+/* Set up colour palette and fonts using variables */
+:root {
+  
+  --body-background-colour: #000000;
+  --body-text-colour: #FFFFFF;
+
+  --main-font: 'Arial', sans-serif;
+
+  --fact-text-colour: #ece8ef;
+  --fact-background: #000500a5;
+
+  --background-colour-switch: #a5a3a3;
+    --switch-colour: #ffffff;
+    --background-colour-switch-checked: #599bce;
+    --text-colour-switch-label: #ffffff;
+
+    --background-colour-light-mode: #414040;
+    --text-colour-light-mode: #ffffff;
+    --background-colour-light-mode-navigation: #f85757;
+    --text-colour-light-mode-year: #000000;
+    --text-colour-light-mode-logo: #000000;
+    --text-colour-light-mode-nav: #000000;
+    --text-colour-light-mode-nav-hover: #58595a;
+    --background-colour-light-mode-header: #4d4f50;
+    --background-colour-light-mode-footer: #599bce;
+    --text-colour-light-mode-footer: #000000;
+
+}
